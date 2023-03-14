@@ -31,4 +31,4 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/mu2519/b9ac07ca7da5e49f51e233d693b67d02/veriloggen-matmul-openlane.ipynb)
 
 ### DSPの最適化
-現在[feature-dspブランチ](https://github.com/mu2519/veriloggen)で公開されています。
+現在[feature-dspブランチ](https://github.com/mu2519/veriloggen/tree/feature-dsp)で公開されています。
