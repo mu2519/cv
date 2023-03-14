@@ -11,4 +11,4 @@
 
 # ポートフォリオ
 ## 卒業研究
-[発表スライド](vld_slides.pdf)
+[発表スライド](https://mu2519.github.io/cv/vld_slides.pdf)
