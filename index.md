@@ -28,7 +28,7 @@
 
 行列積の計算を行うハードウェアを合成するノートブックを公開しています。
 
-<a href=\"https://colab.research.google.com/gist/mu2519/b9ac07ca7da5e49f51e233d693b67d02/veriloggen-matmul-openlane.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/mu2519/b9ac07ca7da5e49f51e233d693b67d02/veriloggen-matmul-openlane.ipynb)
 
 ### DSPの最適化
 現在[feature-dspブランチ](https://github.com/mu2519/veriloggen)で公開されています。
