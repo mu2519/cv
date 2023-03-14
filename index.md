@@ -11,4 +11,20 @@
 
 # ポートフォリオ
 ## 卒業研究
-[発表スライド](https://mu2519.github.io/cv/vld_slides.pdf)
+提案手法ではコードを計算とデータ移動に分離し、それぞれを高位合成でハードウェアにします。
+![提案手法](vld_img1.svg)
+計算とデータ移動が別々に行われていることが嬉しい理由は、計算と通信（データ移動）がオーバーラップすることで、総実行時間が減少するためです。
+![計算と通信のオーバーラップ](vld_img2.svg)
+
+こちらの内容を国内の研究会で発表しました。
+- [電気情報通信学会のページ](https://ken.ieice.org/ken/paper/20230302YCT4/)
+- [発表のスライド](https://mu2519.github.io/cv/vld_slides.pdf)
+
+## 高位合成ツールの改良
+高位合成ツールである[Veriloggen](https://github.com/PyHDI/veriloggen)の改良に取り組んでいます。
+
+### ASICの対応
+現在[feature-asicブランチ](https://github.com/mu2519/veriloggen/tree/feature-asic)で公開されています。
+
+### DSPの最適化
+現在[feature-dspブランチ](https://github.com/mu2519/veriloggen)で公開されています。
